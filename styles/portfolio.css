@@ -182,11 +182,17 @@ main section{
 .resume-container{
     display: flex;
     gap: 50px;
-    margin-left: 400px;
+    
+    
 }
 
+.resume-column-ex{
+    margin-left: 150px;
+    
+}
 .resume-column{
-    margin-right: 80px;
+    margin-left: 100px;
+    
 }
 .resume-item-institute{
     margin-bottom: 20px;
